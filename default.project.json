@@ -1,0 +1,14 @@
+{
+  "name": "untitled-admin",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "UntitledAdmin": {
+        "$path": "src"
+      }
+    },
+
+    "Workspace": {}
+  }
+}
